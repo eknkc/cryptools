@@ -1,0 +1,24 @@
+{
+  "name": "cryptools",
+  "version": "0.1.0",
+  "description": "Basic encryption / decryption helpers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eknkc/cryptools.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "aes",
+    "sign"
+  ],
+  "author": "Ekin Koc",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  }
+}
